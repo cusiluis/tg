@@ -1,0 +1,4 @@
+#Sat Nov 24 13:06:21 BOT 2018
+base.0=/Users/luisito/AndroidStudioProjects/terra_group/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
